@@ -1,0 +1,79 @@
+/* Content Guardian Pro Admin Styles */
+
+.postbox h3.hndle {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.form-table td strong {
+    color: #2c3338;
+}
+
+.description {
+    font-style: italic;
+    color: #646970 !important;
+}
+
+.content-guardian-pro-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.content-guardian-pro-card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.content-guardian-pro-protection-item {
+    background: #e7f5e7;
+    padding: 15px;
+    border-radius: 5px;
+    border-left: 4px solid #00a32a;
+}
+/* License Page - Custom Notices */
+.content-guardian-license-notice {
+    position: relative;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    border-left: 4px solid;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.content-guardian-license-notice.success {
+    background: linear-gradient(135deg, #e7f5e7 0%, #f0f9f0 100%);
+    border-left-color: #00a32a;
+    color: #00a32a;
+}
+
+.content-guardian-license-notice.error {
+    background: linear-gradient(135deg, #ffe7e7 0%, #fff0f0 100%);
+    border-left-color: #d63638;
+    color: #d63638;
+}
+
+.content-guardian-license-notice strong {
+    font-size: 15px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.content-guardian-license-notice p {
+    margin: 0;
+    opacity: 0.9;
+}
+
+/* Hide default WordPress notices on license page */
+.content-guardian-pro_page_content-guardian-pro-license .notice {
+    display: none !important;
+}
+
