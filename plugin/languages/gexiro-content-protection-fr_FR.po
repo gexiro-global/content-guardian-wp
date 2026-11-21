@@ -1,0 +1,84 @@
+# Translation of gexiro-content-protection v3.3.0 in fr_FR
+# Copyright (C) 2026 Gexiro Security
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Guardian Suite 3.3.0\n"
+"Report-Msgid-Bugs-To: https://gexiro.com\n"
+"POT-Creation-Date: 2026-10-25 02:00+0000\n"
+"PO-Revision-Date: 2026-10-25 02:00+0000\n"
+"Last-Translator: Gexiro Security <security@gexiro.com>\n"
+"Language-Team: French <fr@gexiro.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Protection Settings"
+msgstr "Paramètres de protection"
+
+msgid "Forensic Lab & WAF"
+msgstr "Laboratoire Forensique & WAF"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "PRO ACTIVE"
+msgstr "PRO ACTIF"
+
+msgid "All 21 Modules Unlocked"
+msgstr "Les 21 modules débloqués"
+
+msgid "21-Layer Protection"
+msgstr "Protection à 21 couches"
+
+msgid "Right-Click Protection"
+msgstr "Protection clic droit"
+
+msgid "Text Selection Protection"
+msgstr "Protection de sélection de texte"
+
+msgid "Copy/Cut & Clipboard Protection"
+msgstr "Protection copie et presse-papiers"
+
+msgid "DevTools Protection (F12)"
+msgstr "Protection DevTools (F12)"
+
+msgid "Forensic Zero-Width Canary DRM"
+msgstr "Filigrane forensique Zero-Width Canary DRM"
+
+msgid "AI Scraper & LLM Poisoning Trap"
+msgstr "Piège anti-scrapers IA et LLM"
+
+msgid "Closed Shadow-DOM Vault [guardian_vault]"
+msgstr "Coffre chiffré Shadow-DOM [guardian_vault]"
+
+msgid "Canvas Pixel-Watermarked Images"
+msgstr "Protection d'images HTML5 Canvas"
+
+msgid "Edge-WAF & Cloudflare Auto-Ban"
+msgstr "Pare-feu automatique Edge-WAF & Cloudflare"
+
+msgid "Black October & PHP2Shell Shield"
+msgstr "Bouclier Black October & PHP2Shell"
+
+msgid "Save All Settings"
+msgstr "Enregistrer tous les paramètres"
+
+msgid "Forensic Lab & Edge-WAF Console"
+msgstr "Console Laboratoire Forensique & Edge-WAF"
+
+msgid "Decode Forensic Canary"
+msgstr "Décoder le filigrane forensique"
+
+msgid "Ban IP Address Now"
+msgstr "Bannir l'adresse IP"
+
+msgid "Unban"
+msgstr "Débannir"

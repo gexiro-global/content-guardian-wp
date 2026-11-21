@@ -1,0 +1,84 @@
+# Translation of gexiro-content-protection v3.3.0 in ja
+# Copyright (C) 2026 Gexiro Security
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Guardian Suite 3.3.0\n"
+"Report-Msgid-Bugs-To: https://gexiro.com\n"
+"POT-Creation-Date: 2026-10-25 02:00+0000\n"
+"PO-Revision-Date: 2026-10-25 02:00+0000\n"
+"Last-Translator: Gexiro Security <security@gexiro.com>\n"
+"Language-Team: Japanese <ja@gexiro.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Protection Settings"
+msgstr "保護設定"
+
+msgid "Forensic Lab & WAF"
+msgstr "フォレンジック＆WAF"
+
+msgid "Statistics"
+msgstr "統計データ"
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "PRO ACTIVE"
+msgstr "PRO 有効"
+
+msgid "All 21 Modules Unlocked"
+msgstr "全21モジュール解放済み"
+
+msgid "21-Layer Protection"
+msgstr "21層エンタープライズ保護"
+
+msgid "Right-Click Protection"
+msgstr "右クリック保護"
+
+msgid "Text Selection Protection"
+msgstr "テキスト選択保護"
+
+msgid "Copy/Cut & Clipboard Protection"
+msgstr "コピー＆クリップボード保護"
+
+msgid "DevTools Protection (F12)"
+msgstr "開発者ツール保護 (F12)"
+
+msgid "Forensic Zero-Width Canary DRM"
+msgstr "フォレンジック不可視透かし DRM"
+
+msgid "AI Scraper & LLM Poisoning Trap"
+msgstr "AIスクレイパー＆LLM対策トラップ"
+
+msgid "Closed Shadow-DOM Vault [guardian_vault]"
+msgstr "暗号化 Shadow-DOM ボールト [guardian_vault]"
+
+msgid "Canvas Pixel-Watermarked Images"
+msgstr "Canvas ピクセル透かし画像保護"
+
+msgid "Edge-WAF & Cloudflare Auto-Ban"
+msgstr "Edge-WAF＆Cloudflare 自動遮断"
+
+msgid "Black October & PHP2Shell Shield"
+msgstr "Black October ＆ PHP2Shell 防御シールド"
+
+msgid "Save All Settings"
+msgstr "すべての設定を保存"
+
+msgid "Forensic Lab & Edge-WAF Console"
+msgstr "フォレンジック研究所＆Edge-WAFコンソール"
+
+msgid "Decode Forensic Canary"
+msgstr "不可視透かしを解析"
+
+msgid "Ban IP Address Now"
+msgstr "IPアドレスを即時ブロック"
+
+msgid "Unban"
+msgstr "ブロック解除"

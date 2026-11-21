@@ -1,0 +1,84 @@
+# Translation of gexiro-content-protection v3.3.0 in nl_NL
+# Copyright (C) 2026 Gexiro Security
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Guardian Suite 3.3.0\n"
+"Report-Msgid-Bugs-To: https://gexiro.com\n"
+"POT-Creation-Date: 2026-10-25 02:00+0000\n"
+"PO-Revision-Date: 2026-10-25 02:00+0000\n"
+"Last-Translator: Gexiro Security <security@gexiro.com>\n"
+"Language-Team: Dutch <nl@gexiro.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Protection Settings"
+msgstr "Beveiligingsinstellingen"
+
+msgid "Forensic Lab & WAF"
+msgstr "Forensisch Lab & WAF"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "PRO ACTIVE"
+msgstr "PRO ACTIEF"
+
+msgid "All 21 Modules Unlocked"
+msgstr "Alle 21 modules ontgrendeld"
+
+msgid "21-Layer Protection"
+msgstr "21-laagse beveiliging"
+
+msgid "Right-Click Protection"
+msgstr "Rechtermuisknop-beveiliging"
+
+msgid "Text Selection Protection"
+msgstr "Tekstselectie-beveiliging"
+
+msgid "Copy/Cut & Clipboard Protection"
+msgstr "Kopieer- en klembordbeveiliging"
+
+msgid "DevTools Protection (F12)"
+msgstr "DevTools-beveiliging (F12)"
+
+msgid "Forensic Zero-Width Canary DRM"
+msgstr "Forensisch Zero-Width Canary DRM"
+
+msgid "AI Scraper & LLM Poisoning Trap"
+msgstr "AI-scraper & LLM-valstrik"
+
+msgid "Closed Shadow-DOM Vault [guardian_vault]"
+msgstr "Versleutelde Shadow-DOM-kluis [guardian_vault]"
+
+msgid "Canvas Pixel-Watermarked Images"
+msgstr "Canvas pixel-watermerk afbeeldingsbeveiliging"
+
+msgid "Edge-WAF & Cloudflare Auto-Ban"
+msgstr "Edge-WAF & Cloudflare automatische blokkering"
+
+msgid "Black October & PHP2Shell Shield"
+msgstr "Black October & PHP2Shell-schild"
+
+msgid "Save All Settings"
+msgstr "Alle instellingen opslaan"
+
+msgid "Forensic Lab & Edge-WAF Console"
+msgstr "Forensisch Lab & Edge-WAF Console"
+
+msgid "Decode Forensic Canary"
+msgstr "Forensisch watermerk decoderen"
+
+msgid "Ban IP Address Now"
+msgstr "IP-adres nu blokkeren"
+
+msgid "Unban"
+msgstr "Deblokkeren"
