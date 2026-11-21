@@ -1,0 +1,225 @@
+# Translation of gexiro-content-protection v3.3.0 in pl_PL
+# Copyright (C) 2026 Gexiro Security
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Guardian Suite 3.3.0\n"
+"Report-Msgid-Bugs-To: https://gexiro.com\n"
+"POT-Creation-Date: 2026-10-25 02:00+0000\n"
+"PO-Revision-Date: 2026-10-25 02:00+0000\n"
+"Last-Translator: Gexiro Security <security@gexiro.com>\n"
+"Language-Team: Polish <pl@gexiro.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Dashboard"
+msgstr "Panel główny"
+
+msgid "Protection Settings"
+msgstr "Ustawienia ochrony"
+
+msgid "Forensic Lab & WAF"
+msgstr "Laboratorium Śledcze i WAF"
+
+msgid "Statistics"
+msgstr "Statystyki"
+
+msgid "License"
+msgstr "Licencja"
+
+msgid "Enterprise Content Protection Suite • 19-Layer Black October Hardened • PRO License Verified"
+msgstr "Pakiet Ochrony Treści Enterprise • 19 Warstw Black October Hardened • Licencja PRO Zweryfikowana"
+
+msgid "Enterprise Content Protection Suite • FREE Mode (3 Core Features Active)"
+msgstr "Pakiet Ochrony Treści Enterprise • Tryb FREE (3 Podstawowe Funkcje Aktywne)"
+
+msgid "PRO ACTIVE"
+msgstr "PRO AKTYWNE"
+
+msgid "All 21 Modules Unlocked"
+msgstr "Wszystkie 21 Modułów Odblokowane"
+
+msgid "Activate PRO License (21 modules)"
+msgstr "Aktywuj licencję PRO (21 modułów)"
+
+msgid "License Tier"
+msgstr "Poziom Licencji"
+
+msgid "FREE MODE"
+msgstr "TRYB DARMOWY"
+
+msgid "3 Core Features Active"
+msgstr "3 Podstawowe Funkcje Aktywne"
+
+msgid "UNLOCK PRO"
+msgstr "ODBLOKUJ PRO"
+
+msgid "Activate License"
+msgstr "Aktywuj licencję"
+
+msgid "FORENSIC DRM"
+msgstr "FORENSIC DRM"
+
+msgid "Open Forensic Lab & WAF"
+msgstr "Otwórz Laboratorium Śledcze i WAF"
+
+msgid "ACTIVE SHIELD"
+msgstr "AKTYWNA TARCZA"
+
+msgid "21-Layer Protection"
+msgstr "21-Warstwowa Ochrona"
+
+msgid "3-Layer Protection"
+msgstr "3-Warstwowa Ochrona"
+
+msgid "Protection Features Status (21 Enterprise Layers)"
+msgstr "Status Modułów Ochrony (21 Warstw Enterprise)"
+
+msgid "Right-Click Protection"
+msgstr "Ochrona prawego przycisku myszy"
+
+msgid "Text Selection Protection"
+msgstr "Ochrona zaznaczania tekstu"
+
+msgid "Copy/Cut & Clipboard Protection"
+msgstr "Ochrona kopiowania i schowka"
+
+msgid "DevTools Protection (F12)"
+msgstr "Ochrona DevTools (F12)"
+
+msgid "View Source Protection"
+msgstr "Ochrona podglądu źródła (Ctrl+U)"
+
+msgid "Save Page Protection"
+msgstr "Ochrona zapisu strony (Ctrl+S)"
+
+msgid "Print Protection"
+msgstr "Ochrona drukowania (Ctrl+P)"
+
+msgid "Print Screen Protection"
+msgstr "Ochrona zrzutów ekranu (PrintScreen)"
+
+msgid "Enhanced Image Protection"
+msgstr "Zaawansowana ochrona obrazów"
+
+msgid "Drag & Drop Protection"
+msgstr "Ochrona przeciągania (Drag & Drop)"
+
+msgid "Watermark Overlay"
+msgstr "Znak wodny (Watermark Overlay)"
+
+msgid "Mobile Protection"
+msgstr "Ochrona urządzeń mobilnych"
+
+msgid "Mobile Multi-Touch Protection"
+msgstr "Ochrona wielodotyku mobilnego"
+
+msgid "DevTools Blur Effect"
+msgstr "Rozmycie ekranu przy wykryciu DevTools"
+
+msgid "Forensic Zero-Width Canary DRM"
+msgstr "Śledczy znak wodny Zero-Width Canary DRM"
+
+msgid "AI Scraper & LLM Poisoning Trap"
+msgstr "Pułapka na scrapery AI i modele LLM/RAG"
+
+msgid "Closed Shadow-DOM Vault [guardian_vault]"
+msgstr "Zaszyfrowany skarbiec Shadow-DOM [guardian_vault]"
+
+msgid "Canvas Pixel-Watermarked Images"
+msgstr "Ochrona obrazów na płótnie HTML5 Canvas"
+
+msgid "Edge-WAF & Cloudflare Auto-Ban"
+msgstr "Automatyczny firewall Edge-WAF i Cloudflare"
+
+msgid "Black October & PHP2Shell Shield"
+msgstr "Tarcza Black October i PHP2Shell (CVE-2026-109619)"
+
+msgid "Headless REST, RSS, oEmbed & XML-RPC Shield"
+msgstr "Tarcza Headless REST API, RSS, oEmbed i XML-RPC"
+
+msgid "EU AI Act W3C TDM-Reservation & /llms.txt Policy"
+msgstr "Polityka EU AI Act W3C TDM-Reservation i /llms.txt"
+
+msgid "Clean Uninstall (GDPR / Hygiene)"
+msgstr "Czysta deinstalacja (RODO / Higiena bazy)"
+
+msgid "Black October & PHP2Shell Security Posture (Module 19)"
+msgstr "Stan Zabezpieczeń Black October i PHP2Shell (Moduł 19)"
+
+msgid "1-Click Deploy Black October Edge Virtual Patch to Cloudflare"
+msgstr "Wdróż 1-Click Wirtualną Łatkę Black October w Cloudflare Edge"
+
+msgid "Black October Exploit Probes Blocked"
+msgstr "Zablokowane próby eksploitów Black October"
+
+msgid "ACTIVE"
+msgstr "AKTYWNY"
+
+msgid "DISABLED"
+msgstr "WYŁĄCZONY"
+
+msgid "PRO ONLY"
+msgstr "TYLKO PRO"
+
+msgid "Protection Statistics (Live Telemetry)"
+msgstr "Statystyki Ochrony (Telemetria na żywo)"
+
+msgid "Total Blocks"
+msgstr "Wszystkie blokady"
+
+msgid "Right-Clicks Blocked"
+msgstr "Zablokowane kliknięcia PPM"
+
+msgid "Copy Attempts Blocked"
+msgstr "Zablokowane próby kopiowania"
+
+msgid "AI Scraper Traps Hit"
+msgstr "Złapane boty AI (Honeypot)"
+
+msgid "Today's Blocks"
+msgstr "Dzisiejsze blokady"
+
+msgid "Interface Language Settings"
+msgstr "Ustawienia Języka Interfejsu"
+
+msgid "Active Plugin Locale:"
+msgstr "Aktywny język wtyczki:"
+
+msgid "Select Plugin Language:"
+msgstr "Wybierz język wtyczki:"
+
+msgid "Auto (Follow WordPress Language)"
+msgstr "Auto (Język witryny WordPress)"
+
+msgid "Save Language Preference"
+msgstr "Zapisz ustawienia języka"
+
+msgid "Save All Settings"
+msgstr "Zapisz wszystkie ustawienia"
+
+msgid "Forensic Lab & Edge-WAF Console"
+msgstr "Konsola Laboratorium Śledczego i Edge-WAF"
+
+msgid "Forensic Zero-Width Canary Decoder (Module 14)"
+msgstr "Dekoder Śledczy Zero-Width Canary (Moduł 14)"
+
+msgid "Decode Forensic Canary"
+msgstr "Dekoduj znak wodny Canary"
+
+msgid "Generate & Decode Live Test Sample"
+msgstr "Wygeneruj i zdekoduj próbkę testową"
+
+msgid "Edge-WAF Active IP Blocklist & Manual Firewall (Module 18)"
+msgstr "Aktywna Czarna Lista IP Edge-WAF i Ręczny Firewall (Moduł 18)"
+
+msgid "Ban IP Address Now"
+msgstr "Zablokuj adres IP"
+
+msgid "Unban"
+msgstr "Odblokuj"
+
+msgid "Reset All Statistics"
+msgstr "Zresetuj wszystkie statystyki"

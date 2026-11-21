@@ -1,0 +1,219 @@
+# Translation of gexiro-content-protection v3.3.0 in de_DE
+# Copyright (C) 2026 Gexiro Security
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Guardian Suite 3.3.0\n"
+"Report-Msgid-Bugs-To: https://gexiro.com\n"
+"POT-Creation-Date: 2026-10-25 02:00+0000\n"
+"PO-Revision-Date: 2026-10-25 02:00+0000\n"
+"Last-Translator: Gexiro Security <security@gexiro.com>\n"
+"Language-Team: German <de@gexiro.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Protection Settings"
+msgstr "Schutzeinstellungen"
+
+msgid "Forensic Lab & WAF"
+msgstr "Forensik-Labor & WAF"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "PRO ACTIVE"
+msgstr "PRO AKTIV"
+
+msgid "All 21 Modules Unlocked"
+msgstr "Alle 21 Module freigeschaltet"
+
+msgid "Activate PRO License (21 modules)"
+msgstr "PRO-Lizenz aktivieren (21 Module)"
+
+msgid "License Tier"
+msgstr "Lizenzstufe"
+
+msgid "FREE MODE"
+msgstr "KOSTENLOSER MODUS"
+
+msgid "3 Core Features Active"
+msgstr "3 Basisfunktionen aktiv"
+
+msgid "UNLOCK PRO"
+msgstr "PRO FREISCHALTEN"
+
+msgid "Activate License"
+msgstr "Lizenz aktivieren"
+
+msgid "FORENSIC DRM"
+msgstr "FORENSIK-DRM"
+
+msgid "Open Forensic Lab & WAF"
+msgstr "Forensik-Labor & WAF öffnen"
+
+msgid "ACTIVE SHIELD"
+msgstr "AKTIVER SCHUTZ"
+
+msgid "21-Layer Protection"
+msgstr "21-Schichten-Schutz"
+
+msgid "3-Layer Protection"
+msgstr "3-Schichten-Schutz"
+
+msgid "Protection Features Status (21 Enterprise Layers)"
+msgstr "Status der Schutzmodule (21 Enterprise-Schichten)"
+
+msgid "Right-Click Protection"
+msgstr "Rechtsklick-Schutz"
+
+msgid "Text Selection Protection"
+msgstr "Textauswahl-Schutz"
+
+msgid "Copy/Cut & Clipboard Protection"
+msgstr "Kopier- & Zwischenablage-Schutz"
+
+msgid "DevTools Protection (F12)"
+msgstr "DevTools-Schutz (F12)"
+
+msgid "View Source Protection"
+msgstr "Quelltext-Schutz (Strg+U)"
+
+msgid "Save Page Protection"
+msgstr "Seitenspeicher-Schutz (Strg+S)"
+
+msgid "Print Protection"
+msgstr "Druckschutz (Strg+P)"
+
+msgid "Print Screen Protection"
+msgstr "Screenshot-Schutz (Druck-Taste)"
+
+msgid "Enhanced Image Protection"
+msgstr "Erweiterter Bildschutz"
+
+msgid "Drag & Drop Protection"
+msgstr "Drag & Drop-Schutz"
+
+msgid "Watermark Overlay"
+msgstr "Wasserzeichen-Overlay"
+
+msgid "Mobile Protection"
+msgstr "Mobiler Schutz"
+
+msgid "Mobile Multi-Touch Protection"
+msgstr "Mobiler Multi-Touch-Schutz"
+
+msgid "DevTools Blur Effect"
+msgstr "DevTools-Unschärfe-Effekt"
+
+msgid "Forensic Zero-Width Canary DRM"
+msgstr "Forensisches Zero-Width Canary DRM"
+
+msgid "AI Scraper & LLM Poisoning Trap"
+msgstr "KI-Scraper- & LLM-Abwehrfalle"
+
+msgid "Closed Shadow-DOM Vault [guardian_vault]"
+msgstr "Verschlüsselter Shadow-DOM-Tresor [guardian_vault]"
+
+msgid "Canvas Pixel-Watermarked Images"
+msgstr "Canvas-Pixel-Wasserzeichen für Bilder"
+
+msgid "Edge-WAF & Cloudflare Auto-Ban"
+msgstr "Edge-WAF & Cloudflare Auto-Sperre"
+
+msgid "Black October & PHP2Shell Shield"
+msgstr "Black October & PHP2Shell Schutzschild"
+
+msgid "Headless REST, RSS, oEmbed & XML-RPC Shield"
+msgstr "Headless REST, RSS, oEmbed & XML-RPC Schutz"
+
+msgid "EU AI Act W3C TDM-Reservation & /llms.txt Policy"
+msgstr "EU AI Act W3C TDM-Vorbehalt & /llms.txt Richtlinie"
+
+msgid "Clean Uninstall (GDPR / Hygiene)"
+msgstr "Saubere Deinstallation (DSGVO / Datenbankhygiene)"
+
+msgid "Black October & PHP2Shell Security Posture (Module 19)"
+msgstr "Black October & PHP2Shell Sicherheitsstatus (Modul 19)"
+
+msgid "1-Click Deploy Black October Edge Virtual Patch to Cloudflare"
+msgstr "1-Klick Black October Virtual Patch in Cloudflare bereitstellen"
+
+msgid "Black October Exploit Probes Blocked"
+msgstr "Blockierte Black October Exploit-Angriffe"
+
+msgid "ACTIVE"
+msgstr "AKTIV"
+
+msgid "DISABLED"
+msgstr "DEAKTIVIERT"
+
+msgid "PRO ONLY"
+msgstr "NUR PRO"
+
+msgid "Protection Statistics (Live Telemetry)"
+msgstr "Schutzstatistiken (Live-Telemetrie)"
+
+msgid "Total Blocks"
+msgstr "Blockierungen gesamt"
+
+msgid "Right-Clicks Blocked"
+msgstr "Blockierte Rechtsklicks"
+
+msgid "Copy Attempts Blocked"
+msgstr "Blockierte Kopierversuche"
+
+msgid "AI Scraper Traps Hit"
+msgstr "Abgefangene KI-Scraper"
+
+msgid "Today's Blocks"
+msgstr "Heutige Blockierungen"
+
+msgid "Interface Language Settings"
+msgstr "Spracheinstellungen der Oberfläche"
+
+msgid "Active Plugin Locale:"
+msgstr "Aktive Plugin-Sprache:"
+
+msgid "Select Plugin Language:"
+msgstr "Plugin-Sprache wählen:"
+
+msgid "Auto (Follow WordPress Language)"
+msgstr "Automatisch (WordPress-Sprache folgen)"
+
+msgid "Save Language Preference"
+msgstr "Spracheinstellung speichern"
+
+msgid "Save All Settings"
+msgstr "Alle Einstellungen speichern"
+
+msgid "Forensic Lab & Edge-WAF Console"
+msgstr "Forensik-Labor & Edge-WAF-Konsole"
+
+msgid "Forensic Zero-Width Canary Decoder (Module 14)"
+msgstr "Forensischer Zero-Width Canary Decoder (Modul 14)"
+
+msgid "Decode Forensic Canary"
+msgstr "Forensisches Wasserzeichen dekodieren"
+
+msgid "Generate & Decode Live Test Sample"
+msgstr "Testbeispiel generieren & dekodieren"
+
+msgid "Edge-WAF Active IP Blocklist & Manual Firewall (Module 18)"
+msgstr "Aktive Edge-WAF IP-Sperrliste & Firewall (Modul 18)"
+
+msgid "Ban IP Address Now"
+msgstr "IP-Adresse jetzt sperren"
+
+msgid "Unban"
+msgstr "Entsperren"
+
+msgid "Reset All Statistics"
+msgstr "Alle Statistiken zurücksetzen"
